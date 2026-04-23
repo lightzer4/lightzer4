@@ -4,7 +4,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Joseph Natan Martins Porto, tenho 20 anos e sou do Distrito Federal, mais conhecido como Brasília. Fiz o meu ensino médio no EIT (Taguatinga Centro).Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou um cara que gosta de tecnologia e motivado a transformar ideias em soluções eficientes.
+Me chamo Joseph Natan Martins Porto, tenho 20 anos e sou do Distrito Federal, mais conhecido como Brasília. Fiz o meu ensino médio no EIT (Taguatinga Centro). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou um cara que gosta de tecnologia e motivado a transformar ideias em soluções eficientes.
 
 ---
 ###  Linguagens e Tecnologias
